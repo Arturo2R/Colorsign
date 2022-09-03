@@ -265,7 +265,7 @@ nav {
 }
 
 .bottomnav-img {
-  background-image: url("/tshirt.jpg");
+  background-image: url("./tshirt.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 250px;
